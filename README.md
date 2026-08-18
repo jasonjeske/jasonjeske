@@ -40,10 +40,7 @@ I'm not interested in demos that fall over the moment you point real work at the
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-## By the numbers
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=jasonjeske&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/jasonjeske)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjeske&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=C9D1D9)](https://github.com/jasonjeske)
+![Building at night](media/workspace.png)
 
 ## How I work
 
