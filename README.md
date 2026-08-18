@@ -32,7 +32,10 @@ I have spent the last year building AI systems every day, in production, on my o
 
 ## What I'm Building
 
-<sub>First public repositories are landing here shortly. This section fills in as they ship.</sub>
+**[AI Cost Efficiency](https://github.com/jasonjeske/ai-cost-efficiency)** <img src="https://img.shields.io/github/stars/jasonjeske/ai-cost-efficiency?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
+<sub>Standards, templates, runnable tools, and a measurement method for controlling what coding agents actually cost. Built on the mechanic most teams never price in: the model re-reads the entire conversation on every single turn, so session cost grows roughly quadratically with turn count. Vendor-neutral, zero dependencies, no prices quoted because prices go stale and mechanics do not.</sub>
+
+<sub>More is landing here. The areas below are where the work is going.</sub>
 
 <table>
 <tr>
@@ -64,7 +67,6 @@ I have spent the last year building AI systems every day, in production, on my o
 </td>
 </tr>
 </table>
-
 <br>
 
 ## How I Work
