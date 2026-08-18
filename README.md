@@ -99,7 +99,17 @@ A short list of rules that each cost me something to learn.
 
 <div align="center">
 
-[All Repos](https://github.com/jasonjeske?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/jjeske)&nbsp;·&nbsp;[Buy Me a Coffee](https://buymeacoffee.com/jasonjeske)&nbsp;·&nbsp;[All Repos](https://github.com/jasonjeske?tab=repositories)
+
+<br>
+
+<a href="https://buymeacoffee.com/jasonjeske">
+  <img src="https://img.shields.io/badge/Buy_me_a_coffee-%E2%98%95-F5A623?style=for-the-badge&labelColor=0D1117" alt="Buy me a coffee" />
+</a>
+
+<br>
+
+<sub>If something here saved you time, a coffee is a nice way to say so. Everything stays free either way.</sub>
 
 <br>
 
