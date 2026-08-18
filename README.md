@@ -40,8 +40,6 @@ I'm not interested in demos that fall over the moment you point real work at the
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-![Building at night](media/workspace.png)
-
 ## How I work
 
 I keep a short list of rules that have cost me something to learn:
