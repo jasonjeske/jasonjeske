@@ -85,7 +85,9 @@ Success is about ten percent model and ninety percent harness. The model is the 
 
 Agentic systems have an attack surface nobody has fully drawn yet. Tool calls, MCP servers, retrieved documents, agent-to-agent messages, and the memory an agent trusts are all inputs, and every input is a place an adversary can stand. I work that surface from both sides, under the **[Krypteia Sec](https://krypteiasec.com)** name.
 
-Both frontier labs have vetted me for dual-use cyber work: <img src="https://img.shields.io/badge/Anthropic-Cyber_Verification_Program-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Cyber Verification Program" align="absmiddle" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-Trusted_Access_for_Cyber-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Trusted Access for Cyber" align="absmiddle" /> That means the safeguards that block offensive security tooling by default are lifted on my accounts, on the strength of the work I described and the rules I keep.
+Both frontier labs have vetted me for dual-use cyber work. The safeguards that block offensive security tooling by default are lifted on my accounts, on the strength of the work I described and the rules I keep.
+
+<img src="https://img.shields.io/badge/Anthropic-Cyber_Verification_Program-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Cyber Verification Program" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-Trusted_Access_for_Cyber-1F2937?style=flat-square" alt="OpenAI Trusted Access for Cyber" />
 
 <table>
 <tr>
@@ -189,7 +191,7 @@ A short list of rules that each cost me something to learn.
 <tr>
 <td align="right" valign="top"><sub><b>Agents</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />&nbsp;<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />&nbsp;<img src="https://img.shields.io/badge/Pi_Agent-1F2937?style=flat-square" alt="Pi Agent" />&nbsp;<img src="https://img.shields.io/badge/Hermes_Agent-1F2937?style=flat-square" alt="Hermes Agent" />&nbsp;<img src="https://img.shields.io/badge/herdr-1F2937?style=flat-square" alt="herdr" />&nbsp;<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />&nbsp;<img src="https://img.shields.io/badge/Local_LLMs-1F2937?style=flat-square" alt="Local LLMs" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />&nbsp;<img src="https://img.shields.io/badge/Codex-1F2937?style=flat-square" alt="Codex" />&nbsp;<img src="https://img.shields.io/badge/Pi_Agent-1F2937?style=flat-square" alt="Pi Agent" />&nbsp;<img src="https://img.shields.io/badge/Hermes_Agent-1F2937?style=flat-square" alt="Hermes Agent" />&nbsp;<img src="https://img.shields.io/badge/herdr-1F2937?style=flat-square" alt="herdr" />&nbsp;<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />&nbsp;<img src="https://img.shields.io/badge/Local_LLMs-1F2937?style=flat-square" alt="Local LLMs" />
 </td>
 </tr>
 <tr>
